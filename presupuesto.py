@@ -1,1 +1,2 @@
-budget=10000
+presupuesto=10000
+gasto=0
